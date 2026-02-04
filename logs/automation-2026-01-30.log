@@ -1,0 +1,30 @@
+05:00:45.404 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:17)oggger - ***clicking on my account*******
+05:00:45.888 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:19)oggger - ***clicking on Register*******
+05:00:45.897 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:21)oggger - ******providing customer details*****************
+05:00:52.700 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:45)oggger - ****finished testcase********
+05:00:55.481 [main] INFO  testcases.TC002_Verify_LoginTest.LoginTest(TC002_Verify_LoginTest.java:16)oggger - ****************TC002 started*******************
+05:00:57.201 [main] INFO  testcases.TC002_Verify_LoginTest.LoginTest(TC002_Verify_LoginTest.java:35)oggger - ****************TC002 finished*******************
+10:29:40.625 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:15)oggger - **************Strating Testcase******************
+10:29:40.850 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:17)oggger - ***clicking on my account*******
+10:29:41.376 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:19)oggger - ***clicking on Register*******
+10:29:41.434 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:21)oggger - ******providing customer details*****************
+10:29:48.863 [main] INFO  testcases.TC001_AccountRegisterationPage.Verify_Account_Registeration(TC001_AccountRegisterationPage.java:45)oggger - ****finished testcase********
+10:29:52.483 [main] INFO  testcases.TC002_Verify_LoginTest.LoginTest(TC002_Verify_LoginTest.java:16)oggger - ****************TC002 started*******************
+10:29:54.425 [main] INFO  testcases.TC002_Verify_LoginTest.LoginTest(TC002_Verify_LoginTest.java:35)oggger - ****************TC002 finished*******************
+22:35:34.420 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:35:36.045 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:35:36.490 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:35:36.966 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:35:37.642 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:40:56.267 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:40:56.906 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:40:57.297 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:40:57.691 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:40:58.058 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:41:56.954 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:41:57.606 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:41:58.148 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:41:58.645 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+22:41:59.059 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+23:01:14.982 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:16)oggger - ****************TC003_LoginDDT started*******************
+23:01:17.050 [main] INFO  testcases.TC003_Verify_LoginDDT.LoginTest(TC003_Verify_LoginDDT.java:53)oggger - ****************TC003_LoginDDT finished*******************

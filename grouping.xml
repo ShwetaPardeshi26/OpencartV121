@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+	<groups>
+		<run>
+		   <include name="master"/>
+		</run>
+	</groups>
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager"/>
+	 </listeners>
+	<test name="grouping">
+		<parameter name="os" value="Windows" />
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="testcases.TC001_AccountRegisterationPage"/>
+			<class name="testcases.TC002_Verify_LoginTest"/>
+			<!--<class name="testcases.TC003_Verify_LoginDDT" />-->
+		</classes>
+	</test>
+</suite> <!--
+Suite -->
+
